@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Business I were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:/xampp/htdocs/wordpress/wp-content/uploads/2024/03/colibri-wp-ocdi/demo-content-import-file_2024-03-15__17-33-45.xml
+Widget file = C:/xampp/htdocs/wordpress/wp-content/uploads/2024/03/colibri-wp-ocdi/demo-widgets-import-file_2024-03-15__17-33-45.json
+Customizer file = C:/xampp/htdocs/wordpress/wp-content/uploads/2024/03/colibri-wp-ocdi/demo-customizer-import-file_2024-03-15__17-33-45.dat
+Redux files:
+not defined!
+
+---extendthemes-ocdi/before_content_import---
+
+
+--- Colibri Importer ---
+[INFO] - Installed Plugin: contact-form-7/wp-contact-form-7.php
+
+--- Colibri Importer ---
+[INFO] - Plugins instalantion requests new ajax call
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog sidebar widget area : 
+
+Пошук - No Title - Imported
+Недавні записи - No Title - Imported
+Останні коментарі - No Title - Imported
+Архіви - No Title - Imported
+Категорії - No Title - Imported
+Мета - No Title - Imported
+
+newsletter_subscriber_widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+Пошук - No Title - Imported to Inactive
+Недавні записи - No Title - Imported to Inactive
+Останні коментарі - No Title - Imported to Inactive
+Архіви - No Title - Imported to Inactive
+Категорії - No Title - Imported to Inactive
+Мета - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---extendthemes-ocdi/after_import---
+
